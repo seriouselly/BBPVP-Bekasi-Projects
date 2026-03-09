@@ -1,0 +1,6 @@
+[submodule "webdev-frontend"]
+	path = webdev-frontend
+	url = https://github.com/seriouselly/webdev-frontend.git
+[submodule "webdev-backend"]
+	path = webdev-backend
+	url = https://github.com/seriouselly/webdev-backend.git
